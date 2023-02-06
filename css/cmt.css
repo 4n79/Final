@@ -1,0 +1,93 @@
+
+#cmt_current
+{
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size:20px;
+	margin:0 auto;
+	margin-top:3px;
+	border:#B90876 double 2px;
+	width:500px;
+	padding-left:250px;
+	
+	}
+	
+	.table{
+		padding-left:5em;
+		margin-left:2em;
+	}
+	
+#box
+{
+	width:100px;
+	height:150px;
+	padding-left:1em;
+	margin-left:1em;
+	}
+
+#msg_id
+{
+	font-size:20px;
+	color:#FF6600;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	margin-bottom:5px;
+}
+#tblname_id
+{
+	width:100px;
+	font-size:20px;
+	font-family:"Courier New", Courier, monospace;
+	height:135px;
+	color:#fff;
+	border:#666 solid 2px;
+}
+
+#name_id
+{
+	width:600px;
+	height:40px;
+	font-size:18px;
+	color:#003366;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	margin-bottom:5px;
+}
+
+#designation_id
+{
+	width:600px;
+	height:40px;
+	font-size:20px;
+	font-family:"Courier New", Courier, monospace;
+	color:#006;
+	border:#666 solid 2px;
+}
+#message_id
+{
+	width:600px;
+	height:200px;
+	font-size:20px;
+	font-family:"Courier New", Courier, monospace;
+	color:#006;
+	border:#666 solid 2px;
+}
+#tags
+{
+	font-size:24px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color:#990033;
+	padding-right:2em;
+	
+}
+#submit
+{
+	width:200px;
+	height:50px;
+	background-color:#003366;
+	color:#FFF;
+	margin-left:160px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size:20px;
+}
+
+
+
+
